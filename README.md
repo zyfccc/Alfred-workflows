@@ -2,7 +2,7 @@
 
 ## Edit Hosts File.alfredworkflow
 
-edit host file in /ect/hosts
+edit host file at /ect/hosts
 
 
 ## FinderOctave.alfredworkflow
